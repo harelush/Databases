@@ -1,0 +1,8 @@
+[
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000040" }, "category_name": "Electronics" },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000041" }, "category_name": "Mobile Devices" },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000042" }, "category_name": "Audio" },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000043" }, "category_name": "Tablets" },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000044" }, "category_name": "Wearable Technology" },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000045" }, "category_name": "Gaming" }
+]

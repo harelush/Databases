@@ -1,0 +1,82 @@
+[
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000000" },
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "john.doe@example.com",
+    "phone": "+1234567890",
+    "address_id": { "$oid": "601c2f9bfc13ae1f36000010" }
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000001" },
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "jane.smith@example.com",
+    "phone": "+1987654321",
+    "address_id": { "$oid": "601c2f9bfc13ae1f36000011" }
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000002" },
+    "first_name": "Michael",
+    "last_name": "Johnson",
+    "email": "michael.johnson@example.com",
+    "phone": "+1122334455",
+    "address_id": { "$oid": "601c2f9bfc13ae1f36000012" }
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000003" },
+    "first_name": "Emily",
+    "last_name": "Williams",
+    "email": "emily.williams@example.com",
+    "phone": "+1098765432",
+    "address_id": { "$oid": "601c2f9bfc13ae1f36000013" }
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000004" },
+    "first_name": "Daniel",
+    "last_name": "Brown",
+    "email": "daniel.brown@example.com",
+    "phone": "+1222333444",
+    "address_id": { "$oid": "601c2f9bfc13ae1f36000014" }
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000005" },
+    "first_name": "Olivia",
+    "last_name": "Jones",
+    "email": "olivia.jones@example.com",
+    "phone": "+1777888999",
+    "address_id": { "$oid": "601c2f9bfc13ae1f36000015" }
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000006" },
+    "first_name": "William",
+    "last_name": "Garcia",
+    "email": "william.garcia@example.com",
+    "phone": "+1555666777",
+    "address_id": { "$oid": "601c2f9bfc13ae1f36000016" }
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000007" },
+    "first_name": "Sophia",
+    "last_name": "Martinez",
+    "email": "sophia.martinez@example.com",
+    "phone": "+1444555666",
+    "address_id": { "$oid": "601c2f9bfc13ae1f36000017" }
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000008" },
+    "first_name": "James",
+    "last_name": "Davis",
+    "email": "james.davis@example.com",
+    "phone": "+1333444555",
+    "address_id": { "$oid": "601c2f9bfc13ae1f36000018" }
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000009" },
+    "first_name": "Ava",
+    "last_name": "Rodriguez",
+    "email": "ava.rodriguez@example.com",
+    "phone": "+1111222333",
+    "address_id": { "$oid": "601c2f9bfc13ae1f36000019" }
+  }
+]

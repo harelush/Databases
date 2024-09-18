@@ -1,0 +1,62 @@
+[
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000010" },
+    "street": "123 Main St",
+    "city_id": { "$oid": "601c2f9bfc13ae1f36000020" },
+    "zip": "12345"
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000011" },
+    "street": "456 Elm St",
+    "city_id": { "$oid": "601c2f9bfc13ae1f36000021" },
+    "zip": "54321"
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000012" },
+    "street": "789 Oak St",
+    "city_id": { "$oid": "601c2f9bfc13ae1f36000022" },
+    "zip": "67890"
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000013" },
+    "street": "321 Pine St",
+    "city_id": { "$oid": "601c2f9bfc13ae1f36000023" },
+    "zip": "98765"
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000014" },
+    "street": "654 Birch St",
+    "city_id": { "$oid": "601c2f9bfc13ae1f36000024" },
+    "zip": "45678"
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000015" },
+    "street": "987 Cedar St",
+    "city_id": { "$oid": "601c2f9bfc13ae1f36000025" },
+    "zip": "87654"
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000016" },
+    "street": "246 Maple St",
+    "city_id": { "$oid": "601c2f9bfc13ae1f36000026" },
+    "zip": "23456"
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000017" },
+    "street": "135 Spruce St",
+    "city_id": { "$oid": "601c2f9bfc13ae1f36000027" },
+    "zip": "34567"
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000018" },
+    "street": "864 Fir St",
+    "city_id": { "$oid": "601c2f9bfc13ae1f36000028" },
+    "zip": "98712"
+  },
+  {
+    "_id": { "$oid": "601c2f9bfc13ae1f36000019" },
+    "street": "975 Willow St",
+    "city_id": { "$oid": "601c2f9bfc13ae1f36000029" },
+    "zip": "65432"
+  }
+]

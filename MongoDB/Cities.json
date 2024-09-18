@@ -1,0 +1,12 @@
+[
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000020" }, "city_name": "New York" },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000021" }, "city_name": "Los Angeles" },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000022" }, "city_name": "Chicago" },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000023" }, "city_name": "Houston" },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000024" }, "city_name": "Phoenix" },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000025" }, "city_name": "Philadelphia" },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000026" }, "city_name": "San Antonio" },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000027" }, "city_name": "San Diego" },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000028" }, "city_name": "Dallas" },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000029" }, "city_name": "San Jose" }
+]

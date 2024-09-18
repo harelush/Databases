@@ -1,0 +1,8 @@
+[
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000030" }, "product_name": "Laptop", "description": "High-performance laptop", "price": 999.99, "stock_quantity": 10, "category_id": { "$oid": "601c2f9bfc13ae1f36000040" } },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000031" }, "product_name": "Smartphone", "description": "Latest model smartphone", "price": 799.99, "stock_quantity": 20, "category_id": { "$oid": "601c2f9bfc13ae1f36000041" } },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000032" }, "product_name": "Headphones", "description": "Noise-cancelling headphones", "price": 199.99, "stock_quantity": 50, "category_id": { "$oid": "601c2f9bfc13ae1f36000042" } },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000033" }, "product_name": "Tablet", "description": "10-inch display tablet", "price": 499.99, "stock_quantity": 15, "category_id": { "$oid": "601c2f9bfc13ae1f36000043" } },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000034" }, "product_name": "Smartwatch", "description": "Fitness tracker and smartwatch", "price": 149.99, "stock_quantity": 30, "category_id": { "$oid": "601c2f9bfc13ae1f36000044" } },
+  { "_id": { "$oid": "601c2f9bfc13ae1f36000035" }, "product_name": "Gaming Console", "description": "Latest gaming console", "price": 2999.99, "stock_quantity": 5, "category_id": { "$oid": "601c2f9bfc13ae1f36000045" } }
+]
